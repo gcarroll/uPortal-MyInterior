@@ -122,7 +122,7 @@
         <!-- Project Dependency Version Properties -->
         <aopalliance.version>1.0</aopalliance.version>
         <activation.version>1.1.1</activation.version>
-        <ant.version>1.8.4</ant.version>
+        <ant.version>1.10.11</ant.version>
         <aspectjrt.version>1.7.4</aspectjrt.version>
         <aspectjweaver.version>1.7.4</aspectjweaver.version>
         <casclient.version>3.3.3</casclient.version>
