@@ -183,7 +183,7 @@
         <mail.version>1.4.5</mail.version>
         <mockito.version>1.9.5</mockito.version>
         <objenesis.version>2.1</objenesis.version>
-        <org.springframework.webflow.version>2.3.2.RELEASE</org.springframework.webflow.version>
+        <org.springframework.webflow.version>2.4.6.RELEASE</org.springframework.webflow.version>
         <oro.version>2.0.8</oro.version>
         <persistence-api.version>1.0</persistence-api.version>
         <person-directory.version>1.6.0</person-directory.version>
